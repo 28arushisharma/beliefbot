@@ -1,0 +1,6 @@
+Metadata-Version: 2.4
+Name: beliefbot
+Version: 0.1.0
+Summary: Bayesian and confirmation-biased belief updating for jar-and-ball experiments
+Requires-Python: >=3.10
+Requires-Dist: numpy
